@@ -4,7 +4,7 @@
   
 </h2>  
 <br/>  
-<div align="center"> 🤓 I’m currently working on my own gaming project and some handy Unity utilities.  </div>  
+<div align="center"> 🤓 I’m currently working on my own gaming project, my website and some handy Unity utilities.  </div>  
   
 <br/>  
 <div align="center"> 💡 I’m currently learning <strong>Angular</strong>  </div>  
