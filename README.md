@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/205892724?s=400&u=82ec6337a8e291bc5cd271e36544f01ee5d91c81&v=4" align="center" height="200" width="200" />
-</div>  
-<br/>  
 <h2 align="center"> 
   
   I'm Ryan, a <strong>game designer and programmer</strong> who loves to fill learning and everyday things with <strong>gamification</strong>! 🎮🕹️
