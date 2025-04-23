@@ -3,18 +3,18 @@
 </div>  
   
 <br/>  
-<div align="center"> I'm Ryan,  a game designer and programmer who loves to fill learning and everyday things with gamification! 🎮🕹️</div>  
+<div align="center"> I'm Ryan, a <strong>game designer and programmer</strong> who loves to fill learning and everyday things with <strong>gamification</strong>! 🎮🕹️</div>  
   
-
+<br/>  
 <div align="center"> 🤓 I’m currently working on my own gaming project and some handy Unity utilities.  </div>  
   
-
-<div align="center"> 💡 I’m currently learning Angular  </div>  
+<br/>  
+<div align="center"> 💡 I’m currently learning <strong>Angular</strong>  </div>  
   
-
+<br/>  
 <div align="center"> ⁉️ Funfact: I love programming user interfaces #boring 🥱  </div>  
   
-
+<br/>  
 <div align="center"> 🏳️‍🌈 #YouAreSafeWithMe  </div>  
   
 
