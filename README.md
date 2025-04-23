@@ -1,10 +1,12 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/205892724?s=400&u=82ec6337a8e291bc5cd271e36544f01ee5d91c81&v=4" align="center" height="200" width="200" />
 </div>  
-  
 <br/>  
-<div align="center"> I'm Ryan, a <strong>game designer and programmer</strong> who loves to fill learning and everyday things with <strong>gamification</strong>! 🎮🕹️</div>  
+<h2 align="center"> 
   
+  I'm Ryan, a <strong>game designer and programmer</strong> who loves to fill learning and everyday things with <strong>gamification</strong>! 🎮🕹️
+  
+</h2>  
 <br/>  
 <div align="center"> 🤓 I’m currently working on my own gaming project and some handy Unity utilities.  </div>  
   
@@ -21,7 +23,7 @@
 <br/>  
 
 
-## My Skill Set  
+<h2 align="center"> My Skill Set  </h2>
 <table><tr><td valign="top" width="33%">
 
 
@@ -78,15 +80,15 @@
 <br/>  
 
 
-## Connect with me  
+<h2 align="center"> Connect with me  </h2>
 <div align="center">
 <a href="https://github.com/ryandavidbeck" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ryandavidbeck" target="_blank">
+<a href="https://linkedin.com/in/ryan-david-beck" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/rainbowglittermuffin" target="_blank">
+<a href="https://instagram.com/#rainbowglittermuffin" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -95,12 +97,12 @@
 <br/>  
 
 
-## Github Stats  
+<h2 align="center"> Github Stats  </h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ryandavidbeck&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+ <br/>  
 
-## Support me ❤
+<h2 align="center"> Support me ❤ </h2>
 <br/>  
 
 <div align="center">
