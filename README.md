@@ -6,16 +6,16 @@
 <div align="center"> I'm Ryan,  a game designer and programmer who loves to fill learning and everyday things with gamification! 🎮🕹️</div>  
   
 
-- 🤓 I’m currently working on my own gaming project and some handy Unity utilities.  
+<div align="center"> 🤓 I’m currently working on my own gaming project and some handy Unity utilities.  </div>  
   
 
-- 💡 I’m currently learning Angular  
+<div align="center"> 💡 I’m currently learning Angular  </div>  
   
 
-- ⁉️ Funfact: I love programming user interfaces #boring 🥱  
+<div align="center"> ⁉️ Funfact: I love programming user interfaces #boring 🥱  </div>  
   
 
-- 🏳️‍🌈 #YouAreSafeWithMe  
+<div align="center"> 🏳️‍🌈 #YouAreSafeWithMe  </div>  
   
 
 <br/>  
