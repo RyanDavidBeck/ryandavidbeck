@@ -3,7 +3,7 @@
 </div>  
   
 <br/>  
-### <div align="center">I'm Ryan,  a game designer and programmer who loves to fill learning and everyday things with gamification! 🎮🕹️</div>  
+<div align="center"> ### I'm Ryan,  a game designer and programmer who loves to fill learning and everyday things with gamification! 🎮🕹️</div>  
   
 
 - 🤓 I’m currently working on my own gaming project and some handy Unity utilities.  
@@ -117,6 +117,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
