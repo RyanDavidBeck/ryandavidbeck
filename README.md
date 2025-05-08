@@ -89,14 +89,7 @@
 </a>  
 </div>  
   
- 
 <br/>  
-
-
-<h2 align="center"> My Github Stats :chart_with_upwards_trend: </h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ryandavidbeck&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
- <br/>  
 
 <h2 align="center"> Support me ❤ </h2>
 <br/>  
