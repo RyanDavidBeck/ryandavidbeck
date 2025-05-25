@@ -4,7 +4,7 @@
   
 </h2>  
 <br/>  
-<div align="center"> 🤓 I’m currently working on a reboot of an customer project.  </div>  
+<div align="center"> 🤓 I’m currently working on a reboot of Vimuki Island.  </div>  
   
 <br/>  
 <div align="center"> 💡 I’m currently learning <strong>Angular</strong>  </div>  
