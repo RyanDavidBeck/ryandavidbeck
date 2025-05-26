@@ -3,6 +3,10 @@
   I'm Ryan, a <strong>game designer and programmer</strong> who loves to fill learning and everyday things with <strong>gamification</strong>! 🎮🕹️
   
 </h2>  
+<br/> 
+<h2 align="center">
+  If you have reached my Github page via my portfolio and would like to have a look at one of my mentioned projects, please send me an email to get a release for the repository. 
+</h2>
 <br/>  
 <div align="center"> 🤓 I’m currently working on a reboot of Vimuki Island.  </div>  
   
